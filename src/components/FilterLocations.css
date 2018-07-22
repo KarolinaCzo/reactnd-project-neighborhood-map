@@ -1,0 +1,20 @@
+.filter-container {
+  padding-top: 1rem;
+  width: 18.75rem;
+  height: 13rem;
+  margin: 0 auto;
+  font-size: 1rem;
+  background-color: white;
+}
+
+.filter-box {
+  font-size: 1.1875rem;
+  text-align: center;
+  width: 15.625rem;
+  padding: 0.5rem;
+}
+
+.filter-list {
+  list-style-type: none;
+  padding: 0;
+}

@@ -1,0 +1,9 @@
+.location-list-element {
+  margin: 0.3rem auto;
+  padding-left: 1rem;
+  font-weight: 100;
+}
+
+.location-list-element:hover {
+  background-color: #ededed;
+}

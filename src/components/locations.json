@@ -1,0 +1,38 @@
+[
+  {
+    "key": "museum",
+    "title": "Madame Tussauds",
+    "type": "museum",
+    "position": { "lat": 51.523046, "lng": -0.154345 }
+  },
+  {
+    "key": "garden",
+    "title": "Paddington Street Gardens",
+    "type": "garden",
+    "position": { "lat": 51.520328, "lng": -0.154049 }
+  },
+  {
+    "key": "regent-university",
+    "title": "Regent's University London",
+    "type": "university",
+    "position": { "lat": 51.525766, "lng": -0.155129 }
+  },
+  {
+    "key": "street",
+    "title": "Baker Street",
+    "type": "street",
+    "position": { "lat": 51.520611, "lng": -0.1568 }
+  },
+  {
+    "key": "church",
+    "title": "St Marylebone Parish Church",
+    "type": "church",
+    "position": { "lat": 51.522725, "lng": -0.152322 }
+  },
+  {
+    "key": "park",
+    "title": "Regent's Park",
+    "type": "park",
+    "position": { "lat": 51.531271, "lng": -0.156969 }
+  }
+]
